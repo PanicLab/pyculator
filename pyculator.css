@@ -1,0 +1,21 @@
+GtkButton {
+        color: black;
+        font-family: Fixedsys;
+        font-size: 9px;
+        font-weight: normal;
+}
+
+#main_display {
+        color: black;
+        font-family: Century Cothic;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal
+}
+
+#memory_display {
+        color: red;
+        font-family: Century Cothic;
+        font-size: 14px;
+        font-weight: bold;
+}
